@@ -1,1 +1,0 @@
-- layouts=>default.html define landing page structure
