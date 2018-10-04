@@ -1,0 +1,10 @@
+# Site settings
+title: "Equipment Rentals"
+email:
+description:
+url:
+
+# Build settings
+permalink: :title/
+sass:
+  sass_dir: css

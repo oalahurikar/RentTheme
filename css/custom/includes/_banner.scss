@@ -1,0 +1,14 @@
+#banner{
+  position: relative;
+  background: url('../assets/img/banner/banner.jpeg');
+  min-height: 260px;
+
+  .primary-overlay{
+    background: rgba(0, 191, 255, 0.4);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
