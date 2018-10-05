@@ -1,1 +1,5 @@
 # RentTheme
+
+**Reference:** Theme Development
+
+- https://experimentingwithcode.com/creating-a-jekyll-blog-with-bootstrap-4-and-sass-part-1/
