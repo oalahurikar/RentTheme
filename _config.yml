@@ -2,7 +2,7 @@
 title: "Equipment Rentals"
 email:
 description:
-url:
+baseurl: /RentTheme
 
 # Build settings
 permalink: :title/
