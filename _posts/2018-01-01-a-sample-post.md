@@ -3,7 +3,11 @@ layout: post
 title: A Sample Post
 summary: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, dolore.
 ---
-
+# Heading1
+## Heading2
+- Bullet1
+- bullet2
+- 
 ## Lorem
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, dolore.
 
