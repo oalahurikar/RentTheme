@@ -2,11 +2,11 @@
 title: "Equipment Rentals"
 email:
 description:
-# url: https://merudynamics.com
+url: https://merudynamics.com
 baseurl: /RentTheme
 
 # Build settings
-permalink: :title/
+#permalink: :title/
 sass:
   sass_dir: css
 
