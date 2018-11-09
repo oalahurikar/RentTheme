@@ -6,7 +6,7 @@ description:
 baseurl: /merudynamics
 
 # Build settings
-#permalink: :title/
+permalink: :title/
 sass:
   sass_dir: css
 
