@@ -2,7 +2,7 @@
 title: "Equipment Rentals"
 email:
 description:
-baseurl: /https://merudynamics.com
+baseurl: /RentTheme
 
 # Build settings
 permalink: :title/
