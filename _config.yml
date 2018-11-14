@@ -1,6 +1,6 @@
 # Site settings
 title: "Equipment Rentals"
-baseurl: /""
+baseurl: /merudynamics.com
 
 # Build settings
 permalink: :title/
