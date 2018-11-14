@@ -9,3 +9,8 @@ sass:
 
 plugins:
   - jekyll-seo-tag
+
+webmaster_verifications:
+  google: 1234
+  bing: 1234
+  alexa: 1234
