@@ -1,6 +1,6 @@
 # Site settings
 title: "Equipment Rentals"
-baseurl: /
+baseurl: /""
 
 # Build settings
 permalink: :title/
