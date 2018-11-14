@@ -1,5 +1,6 @@
 # Site settings
 title: "Equipment Rentals"
+#baseurl: /RentTheme
 baseurl: /
 
 # Build settings
