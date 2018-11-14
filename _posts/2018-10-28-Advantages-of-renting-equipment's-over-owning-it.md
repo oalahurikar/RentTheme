@@ -5,7 +5,7 @@ title: Advantages of Renting Equipment's Over Owning It
 A cost-benefit analysis can provide valuable data to help you make an informed decision about equipment rental versus ownership.
 Regardless of business size, no one can afford equipment's to fit ill matched for task or sit idle. That's WHY Merudynamics offers comprehensive inventory of equipments for rent. So we can help you decide which option best suits your business needs.
 
-![](http://localhost:4000/RentTheme/assets/img/banner/banner.jpeg)
+![]({{ site.baseurl }}/assets/img/banner/banner.jpeg)
 
 1. A logical and educated decision will help to understand cost benefits applicable to your business. 
 1. Cost of a new equipment
