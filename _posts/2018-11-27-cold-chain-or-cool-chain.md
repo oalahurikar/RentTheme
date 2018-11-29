@@ -7,7 +7,7 @@ Meta Data: Rent refrigeration storage in India, Rent refrigeration truck in Indi
 
 In India where temperature is high throughout the year, we need refrigeration storage and trucks to deliver fresh produce and other perishable freight. A cold chain or cool chain is a temperature-controlled supply chain, which maintain a desired low-temperature of product. Based on product it also required to maintain product specific environment which include air quality levels (carbon dioxide, oxygen, humidity and others), which makes this the most complicated cold chain to operate.
 
-![](https://app.box.com/representation/file_version_378338172872/thumb_320.jpg)
+![](https://dl.dropboxusercontent.com/s/oa6aro5pt1ay8dn/Refrigeration%20Truck.JPG?dl=0)
 
 Cold chains are common in the food and pharmaceutical industries. In order to maintain quality of HVAC system, cold storage provider need to maintain quality of storage in order to deliver undamaged and unspoiled goods.
 Cold chains need to be evaluated and controlled based on 
